@@ -1,2 +1,3 @@
+:d
 python server.py
-pause
+goto d
